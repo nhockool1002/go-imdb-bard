@@ -1,0 +1,26 @@
+{
+  "tickets": [
+    {
+      "id": "T001",
+      "maChuyenXe": "CX001",
+      "tenChuyenXe": "Xe Limousine Hùng Long",
+      "tuyenDuong": "Hà Nội - Đà Nẵng",
+      "tenKhach": "Trần Văn Nam",
+      "sdt": "0912345678",
+      "ngayDi": "2024-02-15",
+      "gioDi": "08:00",
+      "giaVe": 500000
+    },
+    {
+      "id": "T002",
+      "maChuyenXe": "CX002",
+      "tenChuyenXe": "Xe khách Phát An",
+      "tuyenDuong": "Sài Gòn - Nha Trang",
+      "tenKhach": "Nguyễn Thị Hoa",
+      "sdt": "0909876543",
+      "ngayDi": "2024-02-20",
+      "gioDi": "13:00",
+      "giaVe": 350000
+    }
+  ]
+}
