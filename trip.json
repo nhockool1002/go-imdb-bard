@@ -1,0 +1,20 @@
+{
+  "trips": [
+    {
+      "maChuyenXe": "CX001",
+      "tenChuyenXe": "Xe Limousine Hùng Long",
+      "tuyenDuong": "Hà Nội - Đà Nẵng",
+      "ngayDi": "2024-02-15",
+      "gioDi": "08:00",
+      "thoiGianDi": "5h30m"
+    },
+    {
+      "maChuyenXe": "CX002",
+      "tenChuyenXe": "Xe khách Phát An",
+      "tuyenDuong": "Sài Gòn - Nha Trang",
+      "ngayDi": "2024-02-20",
+      "gioDi": "13:00",
+      "thoiGianDi": "6h15m"
+    }
+  ]
+}
